@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2C0A1C7030D5AFCE2E21608A2FF82E9D5A5B5BE3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2C0A1C7030D5AFCE2E21608A2FF82E9D5A5B5BE3" : 9223372036854775807,
+    "03CC76BA023563ABC79A0D638133C8034836B3F7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "122FEFF7-9505-4BA3-922A-7CA208D14A01",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2C0A1C7030D5AFCE2E21608A2FF82E9D5A5B5BE3" : "OCMonkey\/",
+    "03CC76BA023563ABC79A0D638133C8034836B3F7" : "OCMonkey\/peertalk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OCMonkey",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OCMonkey.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsms\/peertalk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "03CC76BA023563ABC79A0D638133C8034836B3F7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/b1ueshad0w\/OCMonkey.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C0A1C7030D5AFCE2E21608A2FF82E9D5A5B5BE3"
+    }
+  ]
+}
