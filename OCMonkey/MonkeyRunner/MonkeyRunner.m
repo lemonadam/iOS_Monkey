@@ -28,8 +28,8 @@
 
 - (void)testRunner {
     
-    NSString *iestools= @"com.ss.iphone.iesmobile.inhouse";
-    NSString *aweme = @"com.ss.iphone.ugc.AwemeInhouse";
+    NSString *iestools= @"com.ss.iphone.xxxx";
+    NSString *aweme = @"com.ss.iphone.xxxx";
     NSString *testApp = @"com.blueshadow.OCMonkeyExample";
     Monkey *monkey = [[Monkey alloc] initWithBundleID:testApp];
     [monkey addDefaultXCTestPrivateActions];
@@ -44,8 +44,8 @@
 
 }
 - (void)DIStestRunner_second {
-    NSString *iestools= @"com.ss.iphone.iesmobile.inhouse";
-    NSString *aweme = @"com.ss.iphone.ugc.AwemeInhouse";
+    NSString *iestools= @"com.ss.ixxxxuse";
+    NSString *aweme = @"com.ss.ipxxxxouse";
     NSString *testApp = @"com.blueshadow.OCMonkeyExample";
     Monkey *monkey = [[Monkey alloc] initWithBundleID:aweme];
     [monkey addDefaultXCTestPrivateActions];
